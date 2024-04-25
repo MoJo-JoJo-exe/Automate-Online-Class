@@ -1,4 +1,4 @@
-GUI for Bigat bot (C:/bigatbot/1stproject.py)
+GUI for Bomb 
 
 { 
    "mono mode"= "true",
