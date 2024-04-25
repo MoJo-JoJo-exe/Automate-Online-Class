@@ -1,0 +1,21 @@
+GUI for Bigat bot (C:/bigatbot/1stproject.py)
+
+{ 
+   "mono mode"= "true",
+   "Hex style"= "16" & "32",
+}
+do loop
+else
+   "value"="false", 
+   "Hex style"= "32"
+}}
+{
+   "format src" = "Microsoft Team link"
+   "headless" = "True"
+   "mode" = open apt&& src=microsoft team link"
+Loop end 
+} 
+
+ 
+   
+ 
